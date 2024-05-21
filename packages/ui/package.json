@@ -9,7 +9,9 @@
     "./postcss.config": "./postcss.config.js",
     "./tailwind.config": "./tailwind.config.ts",
     "./components/*": "./src/components/*.tsx",
-    "./utils": "./src/utils.ts"
+    "./utils": "./src/utils.ts",
+    "./card": "./src/card.tsx",
+    "./code": "./src/code.tsx"
   },
   "license": "MIT",
   "scripts": {
